@@ -40,7 +40,9 @@
 ```
 
 ## Edge Detection
+```bash
 -edge <threshold>
+```
 
 ## Gaussian Blur
 ```bash
